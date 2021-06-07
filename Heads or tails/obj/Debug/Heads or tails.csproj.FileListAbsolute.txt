@@ -1,0 +1,19 @@
+C:\Users\user_\source\repos\Heads or tails\Heads or tails\bin\Debug\Heads or tails.exe.config
+C:\Users\user_\source\repos\Heads or tails\Heads or tails\bin\Debug\Heads or tails.exe
+C:\Users\user_\source\repos\Heads or tails\Heads or tails\bin\Debug\Heads or tails.pdb
+C:\Users\user_\source\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.csprojAssemblyReference.cache
+C:\Users\user_\source\repos\Heads or tails\Heads or tails\obj\Debug\Heads_or_tails.Form1.resources
+C:\Users\user_\source\repos\Heads or tails\Heads or tails\obj\Debug\Heads_or_tails.Properties.Resources.resources
+C:\Users\user_\source\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.csproj.GenerateResource.cache
+C:\Users\user_\source\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.exe
+C:\Users\user_\source\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.pdb
+D:\yedek\masaüstü 3\repos\Heads or tails\Heads or tails\bin\Debug\Heads or tails.exe.config
+D:\yedek\masaüstü 3\repos\Heads or tails\Heads or tails\bin\Debug\Heads or tails.exe
+D:\yedek\masaüstü 3\repos\Heads or tails\Heads or tails\bin\Debug\Heads or tails.pdb
+D:\yedek\masaüstü 3\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.csprojAssemblyReference.cache
+D:\yedek\masaüstü 3\repos\Heads or tails\Heads or tails\obj\Debug\Heads_or_tails.Form1.resources
+D:\yedek\masaüstü 3\repos\Heads or tails\Heads or tails\obj\Debug\Heads_or_tails.Properties.Resources.resources
+D:\yedek\masaüstü 3\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.csproj.GenerateResource.cache
+D:\yedek\masaüstü 3\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.csproj.CoreCompileInputs.cache
+D:\yedek\masaüstü 3\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.exe
+D:\yedek\masaüstü 3\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.pdb
